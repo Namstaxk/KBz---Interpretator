@@ -1,0 +1,25 @@
+Name of antibiotic,Micro-organism,Resistant,Intermediate,Susceptible
+Amikacin (30 ug),Pseudomonas aeruginosa and other non-fermenting Gram Negative rod,<=14,15-16,>=17
+Amikacin (30 ug),E.coli and other enteric Gram Negative rods,<=14,15-16,>=17
+Ampillicin (30 ug),E.coli and other enteric Gram Negative rods,<=13,14-15,>=17
+Cefoperazone (75 ug),Pseudomonas aeruginosa and other non-fermenting Gram Negative rod,<=15,16-20,>=21
+Cefotaxime (30 ug),Pseudomonas aeruginosa and other non-fermenting Gram Negative rod,<=14,15-22,>=23
+Cefazolin (30 ug),E.coli and other enteric Gram Negative rods,<=14,15-17,>=18
+Cefazolin (30 ug),Staphlococcus species,<=14,15-17,>=18
+Clindamycin (2 ug),Staphlococcus species,<=14,15-20,>=21
+Erythromycin (15 ug),Staphlococcus species,<=13,14-22,>=23
+Gentamicin (10 ug),Staphlococcus species,<=12,13-14,>=15
+Gentamicin (10 ug),Pseudomonas aeruginosa and other non-fermenting Gram Negative rod,<=12,13-14,>=15
+Gentamicin (10 ug),E.coli and other enteric Gram Negative rods,<=12,13-14,>=15
+Oxacillin (3 ug),Staphlococcus species,<=10,11-12,>=13
+Penicillin G (10 ug),Staphlococcus species,<=28,N/A,>=29
+Piperacillin (100 ug),E.coli and other enteric Gram Negative rods,<=17,N/A,>=18
+Tetracylin (30 ug),Pseudomonas aeruginosa and other non-fermenting Gram Negative rod,<=14,15-18,>=19
+Tetracylin (30 ug),E.coli and other enteric Gram Negative rods,<=14,15-18,>=19
+Ticarcillin (75 ug),Pseudomonas aeruginosa and other non-fermenting Gram Negative rod,<=14,15-19,>=20
+Ticarcillin (75 ug),E.coli and other enteric Gram Negative rods,<=14,15-19,>=20
+Tobramycin (10 ug),Staphlococcus species,<=12,13-14,>=15
+Tobramycin (10 ug),Pseudomonas aeruginosa and other non-fermenting Gram Negative rod,<=12,13-14,>=15
+Trimethoprinm (5 ug),E.coli and other enteric Gram Negative rods,<=10,11-15,>=16
+Vancomycin (30 ug),Staphlococcus species,N/A,N/A,>=15
+,,,,
